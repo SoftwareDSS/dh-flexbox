@@ -1,0 +1,22 @@
+{
+  "name": "flexbox",
+  "version": "1.0.0",
+  "description": "1.- Despues de clonar es ejecutar npm install.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoftwareDSS/dh-flexbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoftwareDSS/dh-flexbox/issues"
+  },
+  "homepage": "https://github.com/SoftwareDSS/dh-flexbox#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}

@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+}
+
+.contenedor {
+
+    background-color: #DDD;
+    margin: auto;
+    width: 450px;
+
+}
+
+.flexible {
+
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+.flexible .item {
+
+    border: solid 1px #EEE;
+    box-sizing: border-box;
+    display: flex;
+    height: 150px;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+
+}
+
+.flexible .item .text {
+
+}
